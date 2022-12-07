@@ -17,3 +17,6 @@ print(fruit1.greet())
 print(fruit2.cost)
 #print(mango.name)
 #print(f"{papaya.name} its cost is {papaya.cost}")
+
+# fruit1 and fruit2 are the objects of class fruit  
+
