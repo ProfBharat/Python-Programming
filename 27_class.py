@@ -14,6 +14,6 @@ fruit2 = fruit("Papaya",50)     #papaya is an object
 
 print(fruit1.greet())
 
-print(mango.cost)
+print(fruit2.cost)
 #print(mango.name)
 #print(f"{papaya.name} its cost is {papaya.cost}")
